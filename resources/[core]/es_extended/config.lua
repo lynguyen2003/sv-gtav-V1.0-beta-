@@ -33,6 +33,7 @@ Config.AdminGroups = {
 	['admin'] = true
 }
 
+Config.EnableHud 				 = false
 
 Config.EnablePaycheck            = true      -- enable paycheck
 Config.LogPaycheck               = false     -- Logs paychecks to a nominated Discord channel via webhook (default is false)
